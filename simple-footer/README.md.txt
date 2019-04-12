@@ -1,0 +1,1 @@
+Stopka przyklejona do do³u strony za pomoc¹ pozycjonowania absolutnego.
